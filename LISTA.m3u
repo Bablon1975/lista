@@ -538,9 +538,9 @@ http://gloudream.es:8888/Antoje/8p7xZ8HZNWPy/58885
 #EXTINF:-1 tvg-id="" tvg-name="ES :SP MOVISTAR LIGA CAMPEONES 1 FHD (OP1)" tvg-logo="" group-title="MOVISTAR LIGA CAMPEONES OPC. 3 ",ES :SP MOVISTAR LIGA CAMPEONES 1 FHD (OP1)
 http://gloudream.es:8888/Antoje/8p7xZ8HZNWPy/58886
 #EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA CAMPEONES 2 FULLHD" tvg-logo="" group-title="MOVISTAR LIGA CAMPEONES OPC. 3 ",MOVISTAR LIGA CAMPEONES 2 FULLHD
-http://gloudream.es:8888/Antoje/8p7xZ8HZNWPy/58888
+http://gloudream.es:8888/get.php?username=Antoje&password=8p7xZ8HZNWPy&type=m3u_plus&output=mpegts
 #EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA CAMPEONES 3   ( SOLO FUNCIONA CUANDO HAY EVENTOS )" tvg-logo="" group-title="MOVISTAR LIGA CAMPEONES OPC. 3 ",MOVISTAR LIGA CAMPEONES 3   ( SOLO FUNCIONA CUANDO HAY EVENTOS )
-http://gloudream.es:8888/Antoje/8p7xZ8HZNWPy/58890
+http://gloudream.es:8888/get.php?username=Antoje&password=8p7xZ8HZNWPy&type=m3u_plus&output=mpegts
 #EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA CAMPEONES 5 ( SOLO FUNCIONA CUANDO HAY EVENTOS )" tvg-logo="" group-title="MOVISTAR LIGA CAMPEONES OPC. 3 ",MOVISTAR LIGA CAMPEONES 5 ( SOLO FUNCIONA CUANDO HAY EVENTOS )
 http://gloudream.es:8888/Antoje/8p7xZ8HZNWPy/58892
 #EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA CAMPEONES 6  ( SOLO FUNCIONA CUANDO HAY EVENTOS )" tvg-logo="" group-title="MOVISTAR LIGA CAMPEONES OPC. 3 ",MOVISTAR LIGA CAMPEONES 6  ( SOLO FUNCIONA CUANDO HAY EVENTOS )
